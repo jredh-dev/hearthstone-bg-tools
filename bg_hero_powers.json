@@ -1,0 +1,2140 @@
+[
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 80229,
+    "hideCost": true,
+    "id": "BG20_HERO_100p",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Glory of Combat",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]After a friendly minion kills\nan enemy, give it\n+1 Attack permanently.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 2,
+    "dbfId": 70957,
+    "id": "BG20_HERO_101p",
+    "name": "See the Light",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Choose a minion in the\nTavern. Set its stats to 2\nand add it to your hand.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 71455,
+    "hideCost": true,
+    "id": "BG20_HERO_102p",
+    "mechanics": [
+      "AURA",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "For the Horde!",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Minions in the Tavern have\n+1/+1. Improves after\nyou buy 4 minions.\n<i>(4 left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 71459,
+    "id": "BG20_HERO_103p",
+    "name": "Bloodbound",
+    "referencedTags": [
+      "BACON_BLOOD_GEM_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Get 2 <b>Blood Gems</b>.\n<i>(Twice per turn.)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 71464,
+    "id": "BG20_HERO_201p",
+    "name": "Spirit Swap",
+    "set": "BATTLEGROUNDS",
+    "text": "Choose 2 minions. They gain each other's Attack until next turn.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 71644,
+    "id": "BG20_HERO_201p2",
+    "name": "Spirit Swap",
+    "set": "BATTLEGROUNDS",
+    "text": "Choose a minion. Gain Attack with 0.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 71909,
+    "hideCost": true,
+    "id": "BG20_HERO_202p",
+    "name": "Power of the Storm",
+    "set": "BATTLEGROUNDS",
+    "text": "At the start of every turn, choose from 2 new Hero Powers.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 68130,
+    "hideCost": true,
+    "id": "BG20_HERO_242p",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Natural Balance",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]After you buy 20 Tiers'\nworth of cards, get a\nTriple Reward. <i>(20 left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "collectionText": "[x]Once per turn, after you\nbuy 3 minions, get a plain\ncopy of one of them.\n<i>(Done!)</i>",
+    "cost": 0,
+    "dbfId": 104875,
+    "id": "BG20_HERO_280p5",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Glaive Ricochet",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Once per turn, after you\nbuy 3 minions, get a plain\ncopy of one of them.\n<i>(3 left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 77911,
+    "id": "BG20_HERO_282p",
+    "mechanics": [
+      "START_OF_COMBAT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Fragrant Phylactery",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Start of Combat:</b> Give your\nlowest-Attack minion\n\"<b>Deathrattle:</b> Give your other\nminions this minion's stats.\"",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 75703,
+    "id": "BG20_HERO_283p",
+    "name": "Dungar's Gryphon",
+    "set": "BATTLEGROUNDS",
+    "text": "Choose a new flightpath. Complete it to get a bonus!",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 75704,
+    "hideCost": true,
+    "id": "BG20_HERO_283p_t1",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Westfall",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]In 1 turn, get a random\n1-Cost Tavern spell.\n<i>(1 turn left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 75705,
+    "hideCost": true,
+    "id": "BG20_HERO_283p_t2",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Ironforge",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]In 2 turns, gain 2 Gold.\n<i>(2 turns left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 75706,
+    "hideCost": true,
+    "id": "BG20_HERO_283p_t3",
+    "mechanics": [
+      "DISCOVER",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Eastern Plaguelands",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]In 3 turns, <b>Discover</b> a\nminion of your Tier.\n<i>(3 turns left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 71914,
+    "id": "BG20_HERO_301p",
+    "name": "Devour",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Sell a friendly minion.\nSpit its stats onto\nanother.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "collectionText": "[x]Give {2} random friendly\nminions +{0}/+{1}.\n<b><b>Passive</b>:</b> After each combat,\nchoose an improvement.",
+    "cost": 1,
+    "dbfId": 73941,
+    "id": "BG21_HERO_000p",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Conviction",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Give 1 random friendly\nminion +1/+1.\n<b><b>Passive</b>:</b> After each combat,\nchoose an improvement.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 2,
+    "dbfId": 76563,
+    "id": "BG21_HERO_010p",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "I Spy",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Discover</b> a plain copy of\na minion from your next \nopponent's warband.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 77434,
+    "id": "BG21_HERO_020p",
+    "name": "Stir the Pot",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Throw a minion in your pot.\nWhen you've gathered 3,\n<b>Discover</b> from their types.\n<i>(3 left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 76520,
+    "hideCost": true,
+    "id": "BG21_HERO_030p",
+    "name": "Pilot the Shredder",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Start the game with a 2/1\nShredder that summons a\nminion from your hand and\ngives it <b>Divine Shield</b>.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 77990,
+    "id": "BG22_HERO_000p",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Deadeye",
+    "referencedTags": [
+      "START_OF_COMBAT"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Take aim!\n<b>Start of Combat:</b> Deal 99\ndamage to your target.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 123150,
+    "id": "BG22_HERO_000p_Alt",
+    "mechanics": [
+      "START_OF_COMBAT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Lock and Load",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Remove a minion in the\nTavern. When you have\nspace next combat, fire it at\na random enemy minion.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 77991,
+    "hideCost": true,
+    "id": "BG22_HERO_000p_t1",
+    "mechanics": [
+      "START_OF_COMBAT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Aim Left!",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b><b>Passive</b>. Start of Combat</b>:\nDeal 99 damage to the\nleft-most enemy minion.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 77992,
+    "hideCost": true,
+    "id": "BG22_HERO_000p_t2",
+    "mechanics": [
+      "START_OF_COMBAT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Aim Low!",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Passive. Start of Combat</b>:\n Deal 99 damage to the lowest-\nHealth enemy minion.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 77993,
+    "hideCost": true,
+    "id": "BG22_HERO_000p_t3",
+    "mechanics": [
+      "START_OF_COMBAT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Aim High!",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Passive. Start of Combat</b>:\n Deal 99 damage to the highest-\nHealth enemy minion.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 77994,
+    "hideCost": true,
+    "id": "BG22_HERO_000p_t4",
+    "mechanics": [
+      "START_OF_COMBAT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Aim Right!",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Passive. Start of Combat</b>:\nDeal 99 damage to the\nright-most enemy minion.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 79720,
+    "id": "BG22_HERO_001p",
+    "name": "Embrace the Elements",
+    "referencedTags": [
+      "START_OF_COMBAT"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Choose an Element.\n<b>Start of Combat:</b> Call\nupon that Element.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 79721,
+    "hideCost": true,
+    "id": "BG22_HERO_001p_t1",
+    "mechanics": [
+      "START_OF_COMBAT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Earth Invocation",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Start of Combat:</b> Give 4\nrandom friendly minions\n\"<b>Deathrattle:</b> Summon\na 1/1 Elemental.\"",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 79722,
+    "hideCost": true,
+    "id": "BG22_HERO_001p_t2",
+    "mechanics": [
+      "START_OF_COMBAT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Fire Invocation",
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Start of Combat:</b> Double your left-most minion's Attack.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 79723,
+    "hideCost": true,
+    "id": "BG22_HERO_001p_t3",
+    "mechanics": [
+      "START_OF_COMBAT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Water Invocation",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "TAUNT"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Start of Combat:</b> Give\nyour right-most minion\n<b>Divine Shield</b> and <b>Taunt</b>.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 79724,
+    "hideCost": true,
+    "id": "BG22_HERO_001p_t4",
+    "mechanics": [
+      "START_OF_COMBAT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Lightning Invocation",
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Start of Combat:</b> Deal 1 damage to 5 random enemy minions.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 80244,
+    "hideCost": true,
+    "id": "BG22_HERO_002p",
+    "mechanics": [
+      "START_OF_COMBAT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Frostwolf Fervor",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]When you have space in\ncombat, summon a copy of\nyour highest-Attack minion.\n<i>(Unlocks on Turn 7.)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 80248,
+    "hideCost": true,
+    "id": "BG22_HERO_003p",
+    "mechanics": [
+      "START_OF_COMBAT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Stormpike Strength",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]When you have space in\ncombat, summon a copy of\nyour highest-Health minion.\n<i>(Unlocks on Turn 7.)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 80539,
+    "hideCost": true,
+    "id": "BG22_HERO_004p",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Twice as Nice",
+    "referencedTags": [
+      "BACON_REFRESH_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]After the Tavern is\n<b>Refreshed</b>, copy its\nhighest-Tier minion and\n<b>Freeze</b> them both.",
+    "type": "HERO_POWER"
+  },
+  {
+    "battlegroundsRelatedCard": 80007,
+    "cardClass": "NEUTRAL",
+    "collectionText": "[x]When your warband\nreaches 30 total Attack,\nbegin your Naga Conquest.\n<i>({0} left!)</i>",
+    "cost": 0,
+    "dbfId": 79619,
+    "hideCost": true,
+    "id": "BG22_HERO_007p",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Azshara's Ambition",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]When your warband\nreaches 30 total Attack,\nbegin your Naga Conquest.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 80007,
+    "id": "BG22_HERO_007p2",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "Naga Conquest",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Discover</b> a Naga.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "collectionText": "After 9 friendly minions\ndie, get a random Mech.\n<i>({0} left!)</i>",
+    "cost": 0,
+    "dbfId": 81572,
+    "hideCost": true,
+    "id": "BG22_HERO_200p",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "MechGyver",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]After 9 friendly minions\ndie, get a random Mech.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 81570,
+    "hideCost": true,
+    "id": "BG22_HERO_201p",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Expedition Plans",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Skip your first turn.\n<b>Discover</b> a Tier 6, 4, and\n2 minion to get at those\nTiers.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 82114,
+    "hideCost": true,
+    "id": "BG22_HERO_305p",
+    "mechanics": [
+      "AVENGE"
+    ],
+    "name": "Broodmother",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Avenge (4):</b> Summon a\n1/1 Whelp that attacks\nimmediately. Improve this\nby +1/+1.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 86014,
+    "hideCost": true,
+    "id": "BG23_HERO_201p",
+    "mechanics": [
+      "START_OF_COMBAT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Tentacular",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]When you have space in\ncombat, summon a 2/2\nTentacle with <b>Taunt</b>. <i>(Gains\n+1/+1 after you sell a minion!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 90403,
+    "id": "BG23_HERO_303p2",
+    "name": "Detective for Hire",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Look at 2 minions.\nGuess which one your\nnext opponent had\nlast combat for a Coin.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 85126,
+    "id": "BG23_HERO_304p",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Relics of the Deep",
+    "referencedTags": [
+      "BACON_SPELLCRAFT_ID"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]At the start of each turn,\nget a random <b>Spellcraft</b>\nspell.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 11,
+    "dbfId": 86292,
+    "id": "BG23_HERO_305p",
+    "name": "The Perfect Crime",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Steal all cards from\nthe Tavern. Each turn,\nyour next Hero Power\ncosts (1) less.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 2,
+    "dbfId": 89294,
+    "id": "BG23_HERO_306p",
+    "name": "Reclaimed Souls",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Discover</b> a plain copy of\na minion that died\nlast combat.\n<i>(Unlocks on Turn 3.)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 92961,
+    "id": "BG24_HERO_100p",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Whodunit?",
+    "set": "BATTLEGROUNDS",
+    "text": "At the start of the game, choose one of two <b>Quests</b>.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 96872,
+    "hideCost": true,
+    "id": "BG24_HERO_204p",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Enhancification",
+    "referencedTags": [
+      "BACON_REFRESH_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]After each <b>Refresh</b>, give\na minion in the Tavern a\n random <b>Bonus Keyword</b>.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 4,
+    "dbfId": 97814,
+    "id": "BG25_HERO_100p",
+    "name": "Build-An-Undead",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Craft a custom Undead.\n<i>(3 Creations left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 98728,
+    "id": "BG25_HERO_103p",
+    "mechanics": [
+      "START_OF_COMBAT"
+    ],
+    "name": "Rapid Reanimation",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Choose a friendly minion.\n<b>Start of Combat:</b> Destroy it.\nWhen you have space,\n   resummon an exact copy.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 3,
+    "dbfId": 101346,
+    "id": "BG25_HERO_105p",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "Sign a New Artist",
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Discover</b> a <b>Buddy</b>.\n<i>(Unlocks at Tier 2.)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 101132,
+    "hideCost": true,
+    "id": "BG26_HERO_101p",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "I'm the Cap'n Now",
+    "set": "BATTLEGROUNDS",
+    "text": "After you buy a Pirate, gain 1 Gold.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 103501,
+    "id": "BG26_HERO_102p",
+    "name": "Major Hymn",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Give a minion Attack\nequal to your Tier. <i>(Swaps\nto Health next turn!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 103503,
+    "id": "BG26_HERO_102p2",
+    "name": "Minor Hymn",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Give a minion Health\nequal to your Tier. <i>(Swaps\nto Attack next turn!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "collectionText": "[x]At the end of every 3 turns,\nget a plain copy of the left-\nmost card in your hand.\n<i>(End of this turn!)</i>",
+    "cost": 0,
+    "dbfId": 99034,
+    "id": "BG26_HERO_104p",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Upbeat Harmony",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]At the end of every 3 turns,\nget a plain copy of the left-\nmost card in your hand.\n<i>(3 turns left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 108849,
+    "id": "BG27_Anomaly_805t",
+    "name": "Match Fixing",
+    "set": "BATTLEGROUNDS",
+    "text": "Guess which player will win your next combat.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "collectionText": "[x]<b><b>Passive</b>.</b> At the start of the\ngame, <b>Discover</b> a Tier 7\nminion to get after you\n  spend 60 Gold. <i>(Done!)</i>",
+    "cost": 0,
+    "dbfId": 104628,
+    "hideCost": true,
+    "id": "BG27_HERO_801p2",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Choose Your Champion",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b><b>Passive</b>.</b> At the start of the\ngame, <b>Discover</b> a Tier 7\nminion to get after you\n  spend 60 Gold. <i>(60 left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 105315,
+    "id": "BG28_HERO_400p",
+    "name": "Lucky Roll",
+    "set": "BATTLEGROUNDS",
+    "text": "Roll a 6-sided die.\nGain that much Gold.\n<i>(Cannot be used again for that many turns!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 105395,
+    "hideCost": true,
+    "id": "BG28_HERO_400p2",
+    "name": "Lucky Roll",
+    "set": "BATTLEGROUNDS",
+    "text": "Roll a 6-sided die.\nGain that much Gold.\n<i>(Can be used again\nin 0 turns!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 105432,
+    "hideCost": true,
+    "id": "BG28_HERO_800p",
+    "name": "Reliquary Research",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Every fourth Tavern spell\nyou buy costs (0).",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 110472,
+    "id": "BG28_HERO_801p",
+    "name": "Blessing of the Nine Frogs",
+    "set": "BATTLEGROUNDS",
+    "text": "Get a random\nTavern spell.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "collectionText": "[x]On Turn 5, choose a\nLesser <b>Trinket</b> to buy.",
+    "cost": 0,
+    "dbfId": 113311,
+    "hideCost": true,
+    "id": "BG30_HERO_304p",
+    "name": "Fantastic Treasure",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]On Turn 5, choose a\nLesser <b>Trinket</b> to buy.\n<i>(4 turns left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 118677,
+    "id": "BG31_Anomaly_117t",
+    "name": "Eject!",
+    "set": "BATTLEGROUNDS",
+    "targetingArrowText": "Permanently remove a minion from your pool.",
+    "text": "Choose a minion. Permanently remove all copies of it from your pool. <i>(Twice per turn.)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 3,
+    "dbfId": 116924,
+    "id": "BG31_HERO_003p",
+    "name": "The Galaxy's Lens",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Get a copy of the last\nTavern spell you cast.\nEach turn, your next Hero\nPower costs (1) less.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "collectionText": "[x]Once per game, summon\nan exact copy of a friendly\nminion. <i>(Except\n<b>Timewarped</b> minions.)</i>",
+    "cost": 0,
+    "dbfId": 117410,
+    "id": "BG31_HERO_005p",
+    "name": "Cloning Gallery",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Once per game, summon\nan exact copy of a friendly\nminion.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 117426,
+    "id": "BG31_HERO_006p",
+    "name": "Arcane Knowledge",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]The next Tavern spell\nyou buy costs (1) less.\n<i>(Unlocks on Turn 3.)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 118681,
+    "hideCost": true,
+    "id": "BG31_HERO_801p",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Lift Off",
+    "referencedTags": [
+      "BACON_REFRESH_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Start the game with a 2/2\n Battlecruiser. Whenever the\nTavern is <b>Refreshed</b>, add a\n  Battlecruiser Upgrade to it.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "collectionText": "[x]At the start of the game,\nchoose from 2 Protoss\nminions to get after you\nbuy 14 cards. <i>(Done!)</i>",
+    "cost": 0,
+    "dbfId": 119196,
+    "hideCost": true,
+    "id": "BG31_HERO_802p",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Warp Gate",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]At the start of the game,\nchoose from 2 Protoss\nminions to get after you\nbuy 14 cards. <i>(14 left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "artist": "BOSi Studio",
+    "cardClass": "NEUTRAL",
+    "cost": 6,
+    "dbfId": 120362,
+    "id": "BG31_HERO_811p",
+    "name": "Spawning Pool",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Unlock Tier 2 Zerg.\nCosts (1) less each turn.\n<b><b>Passive</b>:</b> Start the game\nwith a 2/2 Larva.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 8,
+    "dbfId": 120363,
+    "id": "BG31_HERO_811p2",
+    "name": "Evolution Chamber",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Unlock Tier 3 Zerg.\nCosts (1) less each turn.\n<b>Passive:</b> Your Zerg can\nmorph into Tier 2 Zerg.",
+    "type": "HERO_POWER"
+  },
+  {
+    "artist": "Mooncolony",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 120364,
+    "hideCost": true,
+    "id": "BG31_HERO_811p3",
+    "name": "Ultralisk Cavern",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Your Zerg can morph\ninto Tier 3 Zerg.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 3,
+    "dbfId": 116921,
+    "id": "BG32_HERO_001p",
+    "name": "Wisdom of Ancients",
+    "set": "BATTLEGROUNDS",
+    "text": "Increase your maximum Gold by 1.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "collectionText": "[x]On Turn 8, choose a\nGreater <b>Trinket</b> to buy.",
+    "cost": 0,
+    "dbfId": 120650,
+    "hideCost": true,
+    "id": "BG32_HERO_002p",
+    "name": "Growing Collection",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]On Turn 8, choose a\nGreater <b>Trinket</b> to buy.\n<i>(7 turns left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "battlegroundsRelatedCard": 123616,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 122926,
+    "hideCost": true,
+    "id": "BG33_HERO_001p",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Heroic Inspiration",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]After friendly minions\nattack 15 times, get your\nHero's Welcome. <i>(15 left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 123616,
+    "id": "BG33_HERO_001p2",
+    "name": "Hero's Welcome",
+    "referencedTags": [
+      "BACON_RALLY",
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Discover</b> a <b>Rally</b> minion.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "collectionText": "[x]On Turn 8, visit a Major\n<b>Timewarp</b>. <i>(Done!)</i>",
+    "cost": 0,
+    "dbfId": 127697,
+    "hideCost": true,
+    "id": "BG34_HERO_000p",
+    "name": "Alternate Timeline",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]On Turn 8, visit a Major\n<b>Timewarp</b>. <i>(7 turns left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 126538,
+    "id": "BG34_HERO_001p",
+    "name": "Mana Per Minute",
+    "referencedTags": [
+      "BACON_REFRESH_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Refresh</b> the Tavern\nwith Tavern spells.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 119214,
+    "id": "BGDUO_Anomaly_003t",
+    "name": "Golden Friendship",
+    "referencedTags": [
+      "BACON_PASS_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Goldenize and <b>Pass</b> a minion. <i>(Once per game.)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 119144,
+    "id": "BGDUO_Anomaly_007t",
+    "name": "Pooled Resources",
+    "set": "BATTLEGROUNDS",
+    "text": "Your teammate gains 1 Gold.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 104569,
+    "id": "BGDUO_HERO_100p",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "[x]",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Start of Game:</b>\nCopy your teammate's\nHero Power.",
+    "type": "HERO_POWER"
+  },
+  {
+    "artist": "Arthur Bozonnet",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 104672,
+    "id": "BGDUO_HERO_101p",
+    "mechanics": [
+      "START_OF_COMBAT"
+    ],
+    "name": "Glorious Gloop",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Choose a friendly minion.\n<b>Start of Combat:</b> Transform\nit into your teammate's\nhighest-Tier minion.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 2,
+    "dbfId": 107184,
+    "id": "BGDUO_HERO_104p",
+    "name": "Efficient Exchange",
+    "referencedTags": [
+      "BACON_PASS_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Pass</b> a non-Golden minion.",
+    "type": "HERO_POWER"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 104983,
+    "hideCost": true,
+    "id": "BGDUO_HERO_222p",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Double Trouble",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Whenever you play a\nGolden minion, both you\nand Gall get a Triple\nReward. <i>(3 left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "artist": "James Ryman",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 104985,
+    "hideCost": true,
+    "id": "BGDUO_HERO_223p",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Double Trouble",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Whenever you play a\nGolden minion, both you\nand Cho get a Triple\nReward. <i>(3 left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 57567,
+    "id": "TB_BaconShop_HP_001",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Sharpen Blades",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Give a minion +2/+2.\nImproves after you\nbuy 5 cards. <i>(5 left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "collectionText": "[x]After you sell a minion,\ngain 1 Gold next turn.\n<i>({0} Gold saved.)</i>",
+    "cost": 1,
+    "dbfId": 57559,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_008",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Smart Savings",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]After you sell a minion,\ngain 1 Gold next turn.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 57561,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_009",
+    "name": "Skilled Bartender",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Reduce the Cost of\nupgrading the\nTavern by (1).",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 57562,
+    "id": "TB_BaconShop_HP_010",
+    "name": "Boon of Light",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Give a minion\n<b>Divine Shield</b>.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 57555,
+    "id": "TB_BaconShop_HP_011",
+    "name": "Galakrond's Greed",
+    "set": "BATTLEGROUNDS",
+    "text": "Choose a minion in the Tavern. Then choose a higher Tier minion to replace it.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 57945,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_014",
+    "name": "Stay Frosty",
+    "set": "BATTLEGROUNDS",
+    "text": "[x] Minions cost (2).\nThe Tavern offers one\nfewer minion and <b><b>Freeze</b>s</b>\nat the end of each turn.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 57949,
+    "id": "TB_BaconShop_HP_015",
+    "name": "Tinker",
+    "referencedTags": [
+      "DISCOVER",
+      "MAGNETIC"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Discover</b> a\n<b>Magnetic</b> Mech.\n<i>(Unlocks at Tier 4.)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 57957,
+    "id": "TB_BaconShop_HP_017",
+    "name": "Murloc King",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]At the start of next combat,\ngive your minions \"<b>Deathrattle:</b>\n Summon a 1/1 Murloc.\"",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 57962,
+    "id": "TB_BaconShop_HP_018",
+    "name": "Rage Potion",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Give a friendly minion\n+10 Attack until\nnext turn.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 2,
+    "dbfId": 58017,
+    "id": "TB_BaconShop_HP_019",
+    "name": "DIE, INSECTS!",
+    "referencedTags": [
+      "START_OF_COMBAT"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Start of Combat:</b>\nDeal 8 damage to two\n  random enemy minions.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 58022,
+    "id": "TB_BaconShop_HP_020",
+    "name": "Prestidigitation",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Choose a <b>Secret</b>.\nPut it into the battlefield.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 58028,
+    "id": "TB_BaconShop_HP_022",
+    "name": "Snicker-snack",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Trigger a friendly\nminion's <b>Battlecry</b>.\n<i>(Unlocks on Turn 3.)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 58040,
+    "id": "TB_BaconShop_HP_024",
+    "name": "Reborn Rites",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Give a minion <b>Reborn</b>\nuntil next turn.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 58527,
+    "id": "TB_BaconShop_HP_027",
+    "name": "Fire the Cannons!",
+    "referencedTags": [
+      "START_OF_COMBAT"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Start of Combat:</b>\nDeal 4 damage to two\n  random enemy minions.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 58537,
+    "id": "TB_BaconShop_HP_028",
+    "name": "Temporal Tavern",
+    "referencedTags": [
+      "BACON_REFRESH_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Refresh</b> the Tavern.\n Include two minions from\na Tier higher than yours.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 59201,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_033",
+    "name": "Menagerist",
+    "referencedTags": [
+      "VENOMOUS"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Start the game with a\n2/2 Amalgam with\n<b>Venomous</b> and all\nminion types.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 59399,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_035",
+    "name": "All Patched Up",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Start the game with\n30 extra Health.",
+    "type": "HERO_POWER"
+  },
+  {
+    "battlegroundsRelatedCard": 123087,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 59808,
+    "id": "TB_BaconShop_HP_036",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Bloodfury",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]After friendly minions\ndeal 150 damage, open\na portal to the Twisting\nNether! <i>(150 left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "artist": "Konstantin Turovec",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 123087,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_036t",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Nether Portal",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]At the start of each turn,\nget 2 random Demons.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "collectionText": "[x]<b>Start of Combat:</b> Give a\nfriendly minion of each\ntype +{2}/+{2}. <i>(Spend\n{0} Gold to improve!)</i>",
+    "cost": 0,
+    "dbfId": 59863,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_037a",
+    "mechanics": [
+      "START_OF_COMBAT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Wax Warband",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Start of Combat:</b> Give a\nfriendly minion of each\ntype +1/+1. <i>(Improves\nafter you spend 10 Gold!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 59815,
+    "id": "TB_BaconShop_HP_038",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Bananarama",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]At the start of your turn,\nget 2 Bananas and give\neveryone else one.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 122958,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_039t",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Puzzle Box",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]At the start of your turn,\ncast a random Tavern\nspell. <i>(Unlocks on Turn 3.)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 2,
+    "dbfId": 59832,
+    "id": "TB_BaconShop_HP_040",
+    "name": "Brick by Brick",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Steal a random minion\nfrom the Tavern.\nDouble its Health.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 2,
+    "dbfId": 63127,
+    "id": "TB_BaconShop_HP_041",
+    "name": "A Tale of Kings",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Discover</b> a minion of a\nspecific minion type.\nSwaps type each turn.",
+    "type": "HERO_POWER"
+  },
+  {
+    "battlegroundsAssociatedRaces": [
+      "BEAST"
+    ],
+    "cardClass": "NEUTRAL",
+    "cost": 2,
+    "dbfId": 59839,
+    "id": "TB_BaconShop_HP_041a",
+    "name": "King of Beasts",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Discover</b> a Beast.\nSwaps type each turn.",
+    "type": "HERO_POWER"
+  },
+  {
+    "battlegroundsAssociatedRaces": [
+      "MECHANICAL"
+    ],
+    "cardClass": "NEUTRAL",
+    "cost": 2,
+    "dbfId": 59853,
+    "id": "TB_BaconShop_HP_041b",
+    "name": "King of Mechs",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Discover</b> a Mech.\nSwaps type each turn.",
+    "type": "HERO_POWER"
+  },
+  {
+    "battlegroundsAssociatedRaces": [
+      "MURLOC"
+    ],
+    "cardClass": "NEUTRAL",
+    "cost": 2,
+    "dbfId": 59852,
+    "id": "TB_BaconShop_HP_041c",
+    "name": "King of Murlocs",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Discover</b> a Murloc.\nSwaps type each turn.",
+    "type": "HERO_POWER"
+  },
+  {
+    "battlegroundsAssociatedRaces": [
+      "DEMON"
+    ],
+    "cardClass": "NEUTRAL",
+    "cost": 2,
+    "dbfId": 59854,
+    "id": "TB_BaconShop_HP_041d",
+    "name": "King of Demons",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Discover</b> a Demon.\nSwaps type each turn.",
+    "type": "HERO_POWER"
+  },
+  {
+    "battlegroundsAssociatedRaces": [
+      "DRAGON"
+    ],
+    "cardClass": "NEUTRAL",
+    "cost": 2,
+    "dbfId": 60922,
+    "id": "TB_BaconShop_HP_041f",
+    "name": "King of Dragons",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Discover</b> a Dragon.\nSwaps type each turn.",
+    "type": "HERO_POWER"
+  },
+  {
+    "battlegroundsAssociatedRaces": [
+      "PIRATE"
+    ],
+    "cardClass": "NEUTRAL",
+    "cost": 2,
+    "dbfId": 62277,
+    "id": "TB_BaconShop_HP_041g",
+    "name": "King of Pirates",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Discover</b> a Pirate.\nSwaps type each turn.",
+    "type": "HERO_POWER"
+  },
+  {
+    "battlegroundsAssociatedRaces": [
+      "ELEMENTAL"
+    ],
+    "cardClass": "NEUTRAL",
+    "cost": 2,
+    "dbfId": 64220,
+    "id": "TB_BaconShop_HP_041h",
+    "name": "King of Elementals",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Discover</b> an Elemental.\nSwaps type each turn.",
+    "type": "HERO_POWER"
+  },
+  {
+    "battlegroundsAssociatedRaces": [
+      "QUILBOAR"
+    ],
+    "cardClass": "NEUTRAL",
+    "cost": 2,
+    "dbfId": 71081,
+    "id": "TB_BaconShop_HP_041i",
+    "name": "King of Quilboar",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Discover</b> a Quilboar.\nSwaps type each turn.",
+    "type": "HERO_POWER"
+  },
+  {
+    "battlegroundsAssociatedRaces": [
+      "NAGA"
+    ],
+    "cardClass": "NEUTRAL",
+    "cost": 2,
+    "dbfId": 89813,
+    "id": "TB_BaconShop_HP_041j",
+    "name": "King of Naga",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Discover</b> a Naga.\nSwaps type each turn.",
+    "type": "HERO_POWER"
+  },
+  {
+    "battlegroundsAssociatedRaces": [
+      "UNDEAD"
+    ],
+    "cardClass": "NEUTRAL",
+    "cost": 2,
+    "dbfId": 98888,
+    "id": "TB_BaconShop_HP_041k",
+    "name": "King of Undead",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Discover</b> an Undead.\nSwaps type each turn.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 59860,
+    "id": "TB_BaconShop_HP_042",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Hat Trick",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]When you play a minion,\ngive it a +1/+1 hat\n that passes to a friendly\nminion when sold.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 59862,
+    "id": "TB_BaconShop_HP_043",
+    "name": "Nefarious Fire",
+    "referencedTags": [
+      "START_OF_COMBAT"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Start of Combat:</b>\nDeal 1 damage to all\nenemy minions.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 59891,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_044",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Procrastinate",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Skip your first two turns,\nthen <b>Discover</b> a minion\nfrom Tier 3 and Tier 4.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "collectionText": "[x]Once per game, make a\nfriendly minion Golden.\n<i>(Except <b>Timewarped</b>\nminions.)</i>",
+    "cost": 0,
+    "dbfId": 60216,
+    "id": "TB_BaconShop_HP_046",
+    "name": "Gonna Be Rich!",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Once per game, make a\nfriendly minion Golden.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 60217,
+    "id": "TB_BaconShop_HP_047",
+    "name": "Lead Explorer",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Discover</b> a minion\nfrom your Tier. Costs (1)\nmore after each use.",
+    "type": "HERO_POWER"
+  },
+  {
+    "battlegroundsRelatedCard": 96786,
+    "cardClass": "NEUTRAL",
+    "collectionText": "[x]After you buy 4 <b>Battlecry</b>\nminions, get a Brann\nBronzebeard. <i>({0} left!)</i>",
+    "cost": 0,
+    "dbfId": 60218,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_048",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Battle Brand",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]After you buy 4 <b>Battlecry</b>\nminions, get a Brann\nBronzebeard.\n<i>(Once per game.)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 2,
+    "dbfId": 60285,
+    "id": "TB_BaconShop_HP_049",
+    "name": "Graveyard Shift",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Steal a card from the\nTavern. Take 2 damage.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 60373,
+    "id": "TB_BaconShop_HP_050",
+    "name": "Banshee's Blessing",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Remove a friendly minion.\nGive adjacent minions\n+1/+1.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 2,
+    "dbfId": 60376,
+    "id": "TB_BaconShop_HP_051",
+    "name": "Honorable Warband",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Give your minions with\nno type +1/+1.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 60378,
+    "id": "TB_BaconShop_HP_052",
+    "name": "Arcane Alteration",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Replace a card with a\n random one of the same\nTier. <i>(Twice per turn.)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 60381,
+    "id": "TB_BaconShop_HP_053",
+    "name": "I'll Take That!",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Next combat, get a\nplain copy of the\nfirst minion you kill.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 60405,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_054",
+    "name": "Manastorm",
+    "referencedTags": [
+      "BACON_REFRESH_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Minions and <b>Refreshes</b>\ncost 2 Gold. Upgrading\nthe Tavern costs (1) more.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 60448,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_056",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Gone Fishing",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]After you sell 5 minions,\nget a random Murloc.\n<i>(5 left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 60450,
+    "id": "TB_BaconShop_HP_057",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Adventure!",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]At the start of the game,\n<b>Discover</b> a Hero Power.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 61406,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_061",
+    "mechanics": [
+      "START_OF_COMBAT",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "ALL Will Burn!",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Start of Combat:</b> Give\nALL minions +2 Attack\npermanently.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 61408,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_062",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Dream Portal",
+    "referencedTags": [
+      "BACON_REFRESH_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]The Tavern offers an\nextra Dragon whenever\nit is <b>Refreshed</b>.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 61491,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_063",
+    "name": "Clairvoyance",
+    "referencedTags": [
+      "BACON_REFRESH_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Your first <b>Refresh</b>\neach turn is free.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 61517,
+    "id": "TB_BaconShop_HP_064",
+    "name": "Queen of Dragons",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Discover</b> a Dragon.\n<i>(Unlocks at Tier 4.)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "battlegroundsRelatedCard": 62035,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 61915,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_065",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Demon Hunter Training",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]After 14 friendly minions\nattack, the first minion\nyou buy each turn is free.\n<i>(14 left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 62035,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_065t2",
+    "name": "Spectral Sight",
+    "set": "BATTLEGROUNDS",
+    "text": "The first minion you buy each turn is free.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 61917,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_066",
+    "name": "Verdant Spheres",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]After you buy 3 minions,\nget a Tavern Coin.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 61919,
+    "id": "TB_BaconShop_HP_068",
+    "name": "Imprison",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Choose a card in the\nTavern to lock in your\nhand. After 2 turns,\nunlock it.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 61851,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_069",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Wingmen",
+    "referencedTags": [
+      "START_OF_COMBAT"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Start of Combat:</b> Your left-\nand right-most minions\ngain +2/+1 and attack\nimmediately.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 3,
+    "dbfId": 62243,
+    "id": "TB_BaconShop_HP_072",
+    "name": "Pirate Parrrrty!",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Get a Pirate. After you buy\na Pirate, your next Hero\nPower costs (1) less.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 62250,
+    "id": "TB_BaconShop_HP_074",
+    "name": "Buried Treasure",
+    "set": "BATTLEGROUNDS",
+    "text": "[x] Dig for a Golden minion!\n<i>(4 Digs left.)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 62267,
+    "id": "TB_BaconShop_HP_075",
+    "name": "Trash for Treasure",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Remove a friendly\nminion. <b>Discover</b> one\nfrom a Tier lower to get.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 62269,
+    "id": "TB_BaconShop_HP_076",
+    "name": "Piggy Bank",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Gain 2 Gold.\nIncreases by 1 each turn.\n<i>(Once per game.)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 63162,
+    "id": "TB_BaconShop_HP_077",
+    "name": "Bob's Burgles",
+    "referencedTags": [
+      "BACON_REFRESH_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Refresh</b> the Tavern with\nplain copies of your last\n opponent's warband.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 63320,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_080",
+    "mechanics": [
+      "DISCOVER",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Kel'Thuzad's Kitty",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]After another hero dies,\n<b>Discover</b> a minion from\ntheir warband. It keeps\nenchantments.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 63600,
+    "id": "TB_BaconShop_HP_081",
+    "name": "Friendly Wager",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Guess which player will\nwin their next combat.\nIf you're correct,\nget 3 Tavern Coins.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 63605,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_082",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Everbloom",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]After you upgrade the\nTavern, gain 2 Gold.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 63607,
+    "id": "TB_BaconShop_HP_084",
+    "name": "Swap, Lock, & Shop It",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Swap a friendly\nnon-Golden minion with a\nrandom one in the Tavern.",
+    "type": "HERO_POWER"
+  },
+  {
+    "battlegroundsRelatedCard": 105269,
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 64401,
+    "id": "TB_BaconShop_HP_085",
+    "name": "Tavern Lighting",
+    "set": "BATTLEGROUNDS",
+    "text": "Get a Lantern Light that gives a minion stats equal to your Tier.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 122960,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_085t",
+    "mechanics": [
+      "AURA"
+    ],
+    "name": "Tavern Lighting",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Your Tavern spells\ngive an extra +1/+1.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 64402,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_086",
+    "mechanics": [
+      "START_OF_COMBAT"
+    ],
+    "name": "Swatting Insects",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "TAUNT",
+      "WINDFURY"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Start of Combat:</b> Give\nyour left-most minion\n<b>Windfury</b>, <b>Divine Shield</b>,\nand <b>Taunt</b>.",
+    "type": "HERO_POWER"
+  },
+  {
+    "battlegroundsRelatedCard": 64426,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 64424,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_087",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "BUY, INSECT!",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]After you buy 16 cards,\nget Sulfuras. <i>(16 left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 64426,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_087t",
+    "name": "Sulfuras",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]At the end of your turn,\ngive your left- and right-\nmost minions +8/+8.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 64476,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_088",
+    "name": "Avalanche",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]After you play 3\nElementals, reduce the\nCost of upgrading the\nTavern by (3).",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 64481,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_101",
+    "name": "Come One, Come All!",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Darkmoon Tickets are in\nthe Tavern! Get 3 to\n<b>Discover</b> a minion of\nyour Tier.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 3,
+    "dbfId": 64486,
+    "id": "TB_BaconShop_HP_102",
+    "name": "Three Wishes",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]If you have two copies of\na minion, find the third.\n<i>(3 Wishes left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 2,
+    "dbfId": 66197,
+    "id": "TB_BaconShop_HP_103",
+    "mechanics": [
+      "START_OF_COMBAT"
+    ],
+    "name": "Embrace Your Rage",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Start of Combat:\n</b>Summon and get\na minion of your Tier.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 66246,
+    "id": "TB_BaconShop_HP_104",
+    "name": "Saturday C'Thuns!",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]At end of turn, give a\nfriendly minion +1/+1.\n  Repeat 0 times.\n<i>  (Improves each turn!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 66484,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_105",
+    "name": "Avatar of N'Zoth",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Start the game with a 2/2\nFish that gains all your\n<b>Deathrattles</b> in combat.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 67357,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_106",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Prize Wall",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Every 4 turns, <b>Discover</b>\na Darkmoon Prize.\n<i>(3 turns left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 67554,
+    "hideCost": true,
+    "id": "TB_BaconShop_HP_107",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Sprout It Out!",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Give +1/+2 and <b>Taunt</b>\nto minions you summon\nduring combat.",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "collectionText": "[x]Give a minion +{1}/+{1}.\nImproves after five\n friendly minions die.\n <i>({0} left!)</i>",
+    "cost": 1,
+    "dbfId": 97185,
+    "id": "TB_BaconShop_HP_702",
+    "mechanics": [
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Runic Empowerment",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Give a minion +1/+1.\nImproves after five\n friendly minions die.\n <i>(5 left!)</i>",
+    "type": "HERO_POWER"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 122959,
+    "id": "TB_BaconShop_HP_702t",
+    "name": "Rune of Damnation",
+    "set": "BATTLEGROUNDS",
+    "text": "Destroy a friendly Undead to get a random Undead.",
+    "type": "HERO_POWER"
+  }
+]

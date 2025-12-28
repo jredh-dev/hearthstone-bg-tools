@@ -1,0 +1,3385 @@
+[
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 70136,
+    "id": "BG20_GEM",
+    "name": "Blood Gem",
+    "set": "BATTLEGROUNDS",
+    "targetingArrowText": "Give +{0}/+{1}.",
+    "text": "Give a minion +1/+1.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 73635,
+    "id": "BG20_GEM_No_Impact",
+    "name": "Blood Gem No Impact",
+    "set": "BATTLEGROUNDS",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 72652,
+    "id": "BG20_GEMt",
+    "name": "Mass Blood Gem",
+    "set": "BATTLEGROUNDS",
+    "text": "Give all friendly minions +0/+0.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 72671,
+    "id": "BG20_HERO_202pt",
+    "name": "Shift your Hero Power",
+    "set": "BATTLEGROUNDS",
+    "text": "Trigger Power of the Storm effect",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 101576,
+    "id": "BG21_HERO_000_Buddy_Gt",
+    "name": "Offensive Stance",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]'Conviction' gives an\nextra +4 Attack\nthis game.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 101567,
+    "id": "BG21_HERO_000_Buddyt",
+    "name": "Offensive Stance",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]'Conviction' gives an\nextra +1 Attack\nthis game.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 101575,
+    "id": "BG21_HERO_000_Buddyt2",
+    "name": "Defensive Stance",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]'Conviction' gives an\nextra +1 Health\nthis game.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 105899,
+    "id": "BG21_HERO_000_Buddyt3",
+    "name": "Offensive Stance",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]'Conviction' gives an\nextra +2 Attack\nthis game.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 105900,
+    "id": "BG21_HERO_000_Buddyt4",
+    "name": "Defensive Stance",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]'Conviction' gives an\nextra +2 Health\nthis game.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 101577,
+    "id": "BG21_HERO_000_Buddyt_Gt2",
+    "name": "Defensive Stance",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]'Conviction' gives an\nextra +4 Health\nthis game.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 104923,
+    "id": "BG21_HERO_000p_t1",
+    "name": "United Stance",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]'Conviction' gives stats\nto an extra friendly\nminion this game.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 24,
+    "dbfId": 101319,
+    "id": "BG22_BuddySpell",
+    "mechanics": [
+      "TWINSPELL"
+    ],
+    "name": "Buy Your Buddy",
+    "set": "BATTLEGROUNDS",
+    "text": "Get your Buddy!\n<i>(Win/Tie - Costs 3 less)\n(Loss - Costs 2 less)</i>",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 24,
+    "dbfId": 101320,
+    "id": "BG22_BuddySpell_2",
+    "name": "Buy 2 Buddies",
+    "set": "BATTLEGROUNDS",
+    "text": "Get 2 Buddies!\n<i>(Win/Tie - Costs 3 less)\n(Loss - Costs 2 less)</i>",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 80867,
+    "id": "BG22_HERO_001p_t1_s",
+    "name": "Earth Invocation",
+    "set": "BATTLEGROUNDS",
+    "text": "Give 4 random friendly minions \"<b>Deathrattle:</b> Summon a 1/1 Elemental.\"",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 80868,
+    "id": "BG22_HERO_001p_t2_s",
+    "name": "Fire Invocation",
+    "set": "BATTLEGROUNDS",
+    "text": "Double your left-most minion's Attack.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 80869,
+    "id": "BG22_HERO_001p_t3_s",
+    "name": "Water Invocation",
+    "set": "BATTLEGROUNDS",
+    "text": "Give your right-most minion <b>Divine Shield</b> and <b>Taunt</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 80870,
+    "id": "BG22_HERO_001p_t4_s",
+    "name": "Lightning Invocation",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Deal 1 damage to 5\nrandom enemy minions.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 83919,
+    "id": "BG23_000_Gt",
+    "name": "Mini-Trident",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "[x]Give a minion +4 Attack\nuntil next turn.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 83914,
+    "id": "BG23_000t",
+    "name": "Mini-Trident",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "[x]Give a minion +2 Attack\nuntil next turn.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 83991,
+    "id": "BG23_004_Gt",
+    "name": "Angler's Lure",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Give a minion +4/+12 and <b>Taunt</b> until next turn.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 83988,
+    "id": "BG23_004t",
+    "name": "Angler's Lure",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Give a minion +2/+6 and <b>Taunt</b> until next turn.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 84379,
+    "id": "BG23_007_Gt",
+    "name": "Undersea Mount",
+    "referencedTags": [
+      "WINDFURY"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "[x]Give a minion +4/+4.\nIf it's a Naga, also give it\n<b>Windfury</b> until next turn.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 84374,
+    "id": "BG23_007t",
+    "name": "Undersea Mount",
+    "referencedTags": [
+      "WINDFURY"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "[x]Give a minion +2/+2.\nIf it's a Naga, also give it\n<b>Windfury</b> until next turn.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 85856,
+    "id": "BG23_008_Gt",
+    "name": "Glowing Crown",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Give a minion <b>Divine Shield</b> until next turn.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 84362,
+    "id": "BG23_008t",
+    "name": "Glowing Crown",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Give a minion <b>Divine Shield</b> until next turn.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 86987,
+    "elite": true,
+    "id": "BG23_015_Gt",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "Azshara's Hatchery",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "<b>Discover</b> 2 Naga.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 86981,
+    "elite": true,
+    "id": "BG23_015t",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "Azshara's Hatchery",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "<b>Discover</b> a Naga.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 92260,
+    "id": "BG23_018t",
+    "name": "Darkgaze Mass Blood Gem",
+    "set": "BATTLEGROUNDS",
+    "text": "Give certain friendly minions +0/+0.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 101580,
+    "id": "BG24_HERO_100_Buddy_Gt",
+    "name": "Hefty Coin Pouch",
+    "set": "BATTLEGROUNDS",
+    "text": "Gain 16 Gold.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 101579,
+    "id": "BG24_HERO_100_Buddyt",
+    "name": "Coin Pouch",
+    "set": "BATTLEGROUNDS",
+    "text": "Gain 8 Gold.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 89641,
+    "hideCost": true,
+    "id": "BG24_Quest_112",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "Track the Footprints",
+    "referencedTags": [
+      "BACON_REFRESH_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Quest:</b> Have the Tavern <b>Refreshed</b> 0 times.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 89643,
+    "hideCost": true,
+    "id": "BG24_Quest_114",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "Assemble a Lineup",
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Quest:</b> Summon 0 minions.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 89958,
+    "hideCost": true,
+    "id": "BG24_Quest_120",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "Unmask the Culprit",
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Quest:</b> Lose or tie 0 combats.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 92548,
+    "hideCost": true,
+    "id": "BG24_Quest_123",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "Find the Murder Weapon",
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Quest:</b> Increase a friendly minion's stats 0 times.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 92549,
+    "hideCost": true,
+    "id": "BG24_Quest_124",
+    "mechanics": [
+      "QUEST",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Reenact the Murder",
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Quest:</b> Have 0 friendly minions die.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 92550,
+    "hideCost": true,
+    "id": "BG24_Quest_125",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "Sort It All Out",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Quest:</b> Order your minions\nfrom lowest to highest\nAttack for 0 combats.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 95940,
+    "hideCost": true,
+    "id": "BG24_Quest_126",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "Follow the Money",
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Quest:</b> Spend 0 Gold.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 90328,
+    "hideCost": true,
+    "id": "BG24_Quest_151",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "Unlikely Duo",
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Quest:</b> Buy 14 0 or 0.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 89011,
+    "hideCost": true,
+    "id": "BG24_Quest_311",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "Cry for Help",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Quest:</b> Play 0 <b>Battlecry</b> minions.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 89037,
+    "hideCost": true,
+    "id": "BG24_Quest_313",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "Invite the Guests",
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Quest:</b> Buy 0 minions.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 89044,
+    "hideCost": true,
+    "id": "BG24_Quest_314",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "Dust for Prints",
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Quest:</b> Add 0 cards to your hand.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 89052,
+    "hideCost": true,
+    "id": "BG24_Quest_318",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "Witness Protection",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Quest:</b> Have a friendly <b>Taunt</b> minion attacked 0 times.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 89057,
+    "hideCost": true,
+    "id": "BG24_Quest_320",
+    "mechanics": [
+      "QUEST",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Exhume the Bones",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Quest:</b> Trigger 0 friendly <b>Deathrattles</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 96153,
+    "hideCost": true,
+    "id": "BG24_Quest_328",
+    "name": "Close the Case",
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Quest:</b> Win the game.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 97674,
+    "hideCost": true,
+    "id": "BG24_Quest_351",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "Hire an Investigator",
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Quest:</b> End your turn with unspent Gold 0 times.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 97743,
+    "hideCost": true,
+    "id": "BG24_Quest_352",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "Crack the Case",
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Quest:</b> Have friendly minions attack 0 times.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 93324,
+    "hideCost": true,
+    "id": "BG24_Quest_Bob",
+    "mechanics": [
+      "SIDE_QUEST"
+    ],
+    "name": "An Investigation!",
+    "set": "BATTLEGROUNDS",
+    "text": "In 3 turns, choose one of three <b>Quests</b>!",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 92966,
+    "id": "BG24_QuestsPlayerEnch_t",
+    "name": "Discover Quest + Reward [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Discover</b> a Quest and Reward pair. [DNT]",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 97659,
+    "id": "BG24_Reward_715t",
+    "name": "Mega Horn",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Give a minion +5/+5 and <b>Taunt</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 97661,
+    "id": "BG24_Reward_715t2",
+    "name": "Blazing Blades",
+    "referencedTags": [
+      "WINDFURY"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Give a minion +5/+5 and <b>Windfury</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 97662,
+    "id": "BG24_Reward_715t3",
+    "name": "Bunker Plating",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Give a minion +5/+5 and <b>Divine Shield</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 97663,
+    "id": "BG24_Reward_715t4",
+    "name": "Death Rewinder",
+    "referencedTags": [
+      "REBORN"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Give a minion +5/+5 and <b>Reborn</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 97967,
+    "id": "BG24_Reward_718t",
+    "name": "Kidnap Sack",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Choose a non-Golden card to move to your hand.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 97754,
+    "id": "BG24_Reward_719t",
+    "name": "The Golden Hammer",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Make a friendly minion Golden until next turn.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 96866,
+    "id": "BG25_044t",
+    "name": "Gold-Gun",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "[x]Make a friendly Pirate or\nNaga Golden until next turn\n<i>(except Greta Gold-Gun)</i>.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Angelo Bortolini",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 101275,
+    "id": "BG26_171_Gt",
+    "name": "Just Keep Swimming",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Give a minion\n+6/+8 and <b>Stealth</b>\nuntil next turn.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Angelo Bortolini",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 100139,
+    "id": "BG26_171t",
+    "name": "Just Keep Swimming",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Give a minion\n+3/+4 and <b>Stealth</b>\nuntil next turn.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 100947,
+    "id": "BG26_355_Gt",
+    "name": "Boogie Down",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Trigger a friendly minion's <b>Battlecry</b> twice.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 100948,
+    "id": "BG26_355_Gt2",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "Partner Up",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Discover</b> 2\n<b>Battlecry</b> minions.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 100945,
+    "id": "BG26_355t",
+    "name": "Boogie Down",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Trigger a friendly minion's <b>Battlecry</b>.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kleston Marques",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 100946,
+    "id": "BG26_355t2",
+    "mechanics": [
+      "DISCOVER"
+    ],
+    "name": "Partner Up",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Discover</b> a\n<b>Battlecry</b> minion.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 98885,
+    "id": "BG26_501_Gt",
+    "name": "Sick Riffs",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Give a minion stats equal to twice your Tier until next turn.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 98881,
+    "id": "BG26_501t",
+    "name": "Sick Riffs",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Give a minion stats equal to your Tier\nuntil next turn.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Angelo Bortolini",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 98918,
+    "id": "BG26_502_Gt",
+    "name": "Deep Blues",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Give a minion +4/+6 until next turn. Improve your future Deep Blues.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Angelo Bortolini",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 98916,
+    "id": "BG26_502t",
+    "name": "Deep Blues",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Give a minion +2/+3 until next turn. Improve your future Deep Blues.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Zoltan Boros",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 105863,
+    "id": "BG27_002t",
+    "name": "Slimy Shield",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Give a minion +1/+1 and <b>Taunt</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 105950,
+    "id": "BG27_004_Gt",
+    "name": "Crab Mount",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "[x]Give a minion\n\"<b>Deathrattle:</b> Summon a\n6/4 Crab\" until next turn.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 105949,
+    "id": "BG27_004t",
+    "name": "Crab Mount",
+    "referencedTags": [
+      "DEATHRATTLE"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "[x]Give a minion\n\"<b>Deathrattle:</b> Summon a\n3/2 Crab\" until next turn.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Todd Harris",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 105948,
+    "id": "BG27_012_Gt",
+    "name": "Sea Summoning",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Choose a minion.\nAdd two minions of its type to the Tavern.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Todd Harris",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 105947,
+    "id": "BG27_012t",
+    "name": "Sea Summoning",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Choose a minion.\nAdd a minion of its type to the Tavern.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 108913,
+    "id": "BG27_084_Gt",
+    "name": "Sprightly Sprucing",
+    "set": "BATTLEGROUNDS",
+    "targetingArrowText": "Give stats and <b>Reborn</b>.",
+    "text": "Give a Beast +2/+2\nand <b>Reborn</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 108916,
+    "id": "BG27_084_Gt2",
+    "name": "Sprightly Support",
+    "referencedTags": [
+      "WINDFURY"
+    ],
+    "set": "BATTLEGROUNDS",
+    "targetingArrowText": "Give Attack and <b>Windfury</b>.",
+    "text": "Give a Beast +8 Attack and <b>Windfury</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 108911,
+    "id": "BG27_084t",
+    "name": "Sprightly Sprucing",
+    "set": "BATTLEGROUNDS",
+    "targetingArrowText": "Give stats and <b>Reborn</b>.",
+    "text": "Give a Beast +1/+1\nand <b>Reborn</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 108914,
+    "id": "BG27_084t2",
+    "name": "Sprightly Support",
+    "referencedTags": [
+      "WINDFURY"
+    ],
+    "set": "BATTLEGROUNDS",
+    "targetingArrowText": "Give Attack and <b>Windfury</b>.",
+    "text": "Give a Beast +4 Attack and <b>Windfury</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 103071,
+    "elite": true,
+    "id": "BG27_514t",
+    "name": "Siren's Song",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Choose a minion in the Tavern to get a copy of\n<i>(except Sea Witch Zar'jira).</i>",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 103076,
+    "elite": true,
+    "id": "BG27_514t_G",
+    "name": "Siren's Song",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "[x]Choose a minion in the\nTavern to get 2 copies of\n<i>(except Sea Witch Zar'jira).</i>",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 103188,
+    "id": "BG27_Anomaly_101t",
+    "name": "Triple Reward",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Discover</b> a minion\nfrom <b>Tier 0</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 102077,
+    "id": "BG27_Anomaly_302t",
+    "name": "Piggy Bank",
+    "set": "BATTLEGROUNDS",
+    "text": "Gain 1 Gold.\n<i>(Improves each turn!)</i>",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 107185,
+    "id": "BG27_Anomaly_574t2",
+    "name": "Consolation Coin Pouch",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Gain 3 Gold.\n<i>(There were no available\nminions to <b>Discover</b>.)</i>",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 106634,
+    "id": "BG27_Anomaly_575t",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "Eleventh Hour",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Secret:</b> When your hero\ntakes fatal damage in\ncombat, prevent it and gain\n11 Gold next turn instead.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 102094,
+    "id": "BG27_Anomaly_755t",
+    "name": "Triple Reward",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Discover</b> a Tier 0 Darkmoon Prize.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 106474,
+    "id": "BG27_Anomaly_803t",
+    "name": "Anomalous Evidence Activation [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Trigger Anomalous Evidence - Choose from 2 Quest Rewards. [DNT]",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 104658,
+    "hideCost": true,
+    "id": "BG27_Quest_800",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "Burn the Evidence",
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Quest:</b> Sell 0 minions.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 104661,
+    "hideCost": true,
+    "id": "BG27_Quest_801",
+    "mechanics": [
+      "QUEST"
+    ],
+    "name": "Pressure the Authorities",
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Quest:</b> Get your warband to 28\ntotal Attack.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 104660,
+    "hideCost": true,
+    "id": "BG27_Quest_802",
+    "mechanics": [
+      "QUEST",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Round Up the Suspects",
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Quest:</b> Destroy 0 enemy minions.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 104725,
+    "id": "BG27_Reward_504t",
+    "name": "Accelerator",
+    "set": "BATTLEGROUNDS",
+    "text": "Transform a minion into one from a Tier higher.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 105679,
+    "elite": true,
+    "id": "BG28_405_Gt",
+    "name": "Sunken Spells",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "<b>Discover</b> 2 Tavern spells.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 105678,
+    "elite": true,
+    "id": "BG28_405t",
+    "name": "Sunken Spells",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "<b>Discover</b> a Tavern spell.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "David Kang",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 120497,
+    "id": "BG28_521t",
+    "name": "Consolation Coin",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Gain 1 Gold.\n<i>(There were no available\n  minions of a valid type.)</i>",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 110350,
+    "hideCost": true,
+    "id": "BG28_Quest_500",
+    "mechanics": [
+      "QUEST",
+      "TRIGGER_VISUAL"
+    ],
+    "name": "Fill the Cauldron",
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Quest:</b> Cast 0 spells.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 108521,
+    "id": "BG29_870_Gt",
+    "name": "Surging Scales",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "targetingArrowText": "Trigger a friendly minion's <b>Battlecry</b>.",
+    "text": "Trigger a friendly minion's <b>Battlecry</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 108520,
+    "id": "BG29_870t",
+    "name": "Surging Scales",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "targetingArrowText": "Trigger a friendly minion's <b>Battlecry</b> twice.",
+    "text": "[x]Trigger a friendly\nminion's <b>Battlecry</b>\ntwice.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 113407,
+    "id": "BG29_879t",
+    "name": "Shell Out",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "targetingArrowText": "Give this minion's stats to a friendly minion.",
+    "text": "Choose a minion in the Tavern. Give its stats to a random friendly minion until next turn.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 113408,
+    "id": "BG29_879t_G",
+    "name": "Shell Out",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "targetingArrowText": "Give double this minion's stats to a friendly minion.",
+    "text": "Choose a minion in the Tavern. Give double its stats to a random friendly minion until next turn.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 115440,
+    "id": "BG30_110_Gt",
+    "name": "Malevolent Mirage",
+    "set": "BATTLEGROUNDS",
+    "text": "Triple the Attack of all minions in the Tavern.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 115441,
+    "id": "BG30_110_Gt2",
+    "name": "Mellow Mirage",
+    "set": "BATTLEGROUNDS",
+    "text": "Triple the Health of all minions in the Tavern.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 115442,
+    "id": "BG30_110t",
+    "name": "Malevolent Mirage",
+    "set": "BATTLEGROUNDS",
+    "text": "Double the Attack of all minions in the Tavern.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 115443,
+    "id": "BG30_110t2",
+    "name": "Mellow Mirage",
+    "set": "BATTLEGROUNDS",
+    "text": "Double the Health of all minions in the Tavern.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 114102,
+    "id": "BG30_117_Gt",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "Escape Eruption",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "<b>Choose One -</b> Give your minions +6 Attack; or +6 Health.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 114387,
+    "id": "BG30_117_Gt2",
+    "name": "Trudge through Lava",
+    "set": "BATTLEGROUNDS",
+    "text": "Give your minions\n+6 Attack.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 114389,
+    "id": "BG30_117_Gt3",
+    "name": "Use Supplies",
+    "set": "BATTLEGROUNDS",
+    "text": "Give your minions\n+6 Health.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 114101,
+    "id": "BG30_117t",
+    "mechanics": [
+      "CHOOSE_ONE"
+    ],
+    "name": "Escape Eruption",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "<b>Choose One -</b> Give your minions +3 Attack; or +3 Health.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 114383,
+    "id": "BG30_117t2",
+    "name": "Trudge through Lava",
+    "set": "BATTLEGROUNDS",
+    "text": "Give your minions\n+3 Attack.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 114386,
+    "id": "BG30_117t3",
+    "name": "Use Supplies",
+    "set": "BATTLEGROUNDS",
+    "text": "Give your minions\n+3 Health.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 113909,
+    "id": "BG30_123_Gt",
+    "name": "Dig In",
+    "referencedTags": [
+      "BACON_BLOOD_GEM_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Your <b>Blood Gems</b> give an extra +2/+2 this game.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 113910,
+    "id": "BG30_123_Gt2",
+    "name": "Fill Your Plate",
+    "referencedTags": [
+      "BACON_BLOOD_GEM_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Get 8 <b>Blood Gems</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 113907,
+    "id": "BG30_123t",
+    "name": "Dig In",
+    "referencedTags": [
+      "BACON_BLOOD_GEM_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Your <b>Blood Gems</b> give an extra +1/+1 this game.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 113908,
+    "id": "BG30_123t2",
+    "name": "Fill Your Plate",
+    "referencedTags": [
+      "BACON_BLOOD_GEM_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Get 4 <b>Blood Gems</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 114092,
+    "id": "BG30_128_Gt",
+    "name": "Sharpen Glass",
+    "set": "BATTLEGROUNDS",
+    "text": "Triple this minion's Attack.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 114093,
+    "id": "BG30_128_Gt2",
+    "name": "Polish Glass",
+    "set": "BATTLEGROUNDS",
+    "text": "Triple this minion's Health.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 114090,
+    "id": "BG30_128t",
+    "name": "Sharpen Glass",
+    "set": "BATTLEGROUNDS",
+    "text": "Double this minion's Attack.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 114091,
+    "id": "BG30_128t2",
+    "name": "Polish Glass",
+    "set": "BATTLEGROUNDS",
+    "text": "Double this minion's Health.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 117865,
+    "id": "BG30_929_Gt",
+    "name": "Slip and Slide",
+    "referencedTags": [
+      "BACON_REFRESH_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "<b>Refresh</b> the Tavern with two extra Tavern spells that cost (1) less.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 117864,
+    "id": "BG30_929t",
+    "name": "Slip and Slide",
+    "referencedTags": [
+      "BACON_REFRESH_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "<b>Refresh</b> the Tavern with an extra Tavern spell that costs (1) less.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Grafit",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 112813,
+    "id": "BG30_MagicItem_416t",
+    "name": "Token of the Old Gods",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Choose a minion. Then choose a minion from a Tier higher to transform it into.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kevin Sidharta",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 112401,
+    "id": "BG30_MagicItem_429t",
+    "name": "Demonblood Gourd",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Choose a friendly minion. It consumes a random minion in the Tavern to gain its stats.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 117803,
+    "id": "BG30_MagicItem_703t",
+    "name": "Mystery Cube Activation [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Trigger Mystery Cube - Choose from 2 Trinkets. [DNT]",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 117945,
+    "id": "BG30_MagicItem_714t",
+    "name": "Harvested Pearl",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "[x]Give a minion +30/+30\nuntil next turn.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 115942,
+    "id": "BG31_144_Gt",
+    "name": "Divine Adaptation",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Gain +6 Attack and <b>Divine Shield</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 115943,
+    "id": "BG31_144_Gt2",
+    "name": "Deadly Adaptation",
+    "referencedTags": [
+      "VENOMOUS"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Gain +6 Health and <b>Venomous</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 115940,
+    "id": "BG31_144t",
+    "name": "Divine Adaptation",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Gain +3 Attack and <b>Divine Shield</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 115941,
+    "id": "BG31_144t2",
+    "name": "Deadly Adaptation",
+    "referencedTags": [
+      "VENOMOUS"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Gain +3 Health and <b>Venomous</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 116202,
+    "id": "BG31_320_Gt",
+    "name": "Take the Gems",
+    "referencedTags": [
+      "BACON_BLOOD_GEM_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Get 4 <b>Blood Gems</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 116203,
+    "id": "BG31_320_Gt2",
+    "name": "Mine Deeper",
+    "set": "BATTLEGROUNDS",
+    "text": "Get two random 1-Cost Tavern spells.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 116200,
+    "id": "BG31_320t",
+    "name": "Take the Gems",
+    "referencedTags": [
+      "BACON_BLOOD_GEM_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Get 2 <b>Blood Gems</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 116201,
+    "id": "BG31_320t2",
+    "name": "Mine Deeper",
+    "set": "BATTLEGROUNDS",
+    "text": "Get a random 1-Cost Tavern spell.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 116213,
+    "id": "BG31_325_Gt",
+    "name": "Instant Infusion",
+    "referencedTags": [
+      "BACON_BLOOD_GEM_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Get 6 <b>Blood Gems</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 116214,
+    "id": "BG31_325_Gt2",
+    "name": "Deep Infusion",
+    "referencedTags": [
+      "BACON_BLOOD_GEM_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Gain \"<b>Deathrattle:</b> Get 4 <b>Blood Gems</b>.\"",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 116210,
+    "id": "BG31_325t",
+    "name": "Instant Infusion",
+    "referencedTags": [
+      "BACON_BLOOD_GEM_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Get 3 <b>Blood Gems</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 116211,
+    "id": "BG31_325t2",
+    "name": "Deep Infusion",
+    "referencedTags": [
+      "BACON_BLOOD_GEM_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "Gain \"<b>Deathrattle:</b> Get 2 <b>Blood Gems</b>.\"",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 116438,
+    "id": "BG31_326t",
+    "name": "Arm Day",
+    "referencedTags": [
+      "BACON_BLOOD_GEM_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "TAVERN",
+    "text": "Your <b>Blood Gems</b> give an extra +1 Attack this game.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 116439,
+    "id": "BG31_326t2",
+    "name": "Leg Day",
+    "referencedTags": [
+      "BACON_BLOOD_GEM_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "TAVERN",
+    "text": "Your <b>Blood Gems</b> give an extra +1 Health this game.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 115902,
+    "id": "BG31_825_Gt",
+    "name": "Nearby Treasure",
+    "set": "BATTLEGROUNDS",
+    "text": "Gain 4 Gold next turn.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 115904,
+    "id": "BG31_825_Gt2",
+    "name": "Faraway Treasure",
+    "set": "BATTLEGROUNDS",
+    "text": "Gain 8 Gold in two turns.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 115901,
+    "id": "BG31_825t",
+    "name": "Nearby Treasure",
+    "set": "BATTLEGROUNDS",
+    "text": "Gain 2 Gold next turn.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 115903,
+    "id": "BG31_825t2",
+    "name": "Faraway Treasure",
+    "set": "BATTLEGROUNDS",
+    "text": "Gain 4 Gold in two turns.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 120897,
+    "id": "BG31_830_Gt",
+    "name": "Reinvigoration",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Give a minion +4/+4.\nIf it's a Naga, also give it <b>Reborn</b> until next turn.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 120896,
+    "id": "BG31_830t",
+    "name": "Reinvigoration",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Give a minion +2/+2.\nIf it's a Naga, also give it <b>Reborn</b> until next turn.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 115917,
+    "id": "BG31_842_Gt",
+    "name": "Nether Energy",
+    "set": "BATTLEGROUNDS",
+    "text": "Give minions in the Tavern +8/+8 this game.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 115918,
+    "id": "BG31_842_Gt2",
+    "name": "Nether Greed",
+    "set": "BATTLEGROUNDS",
+    "text": "Consume all minions in the Tavern to gain double their stats.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 115915,
+    "id": "BG31_842t",
+    "name": "Nether Energy",
+    "set": "BATTLEGROUNDS",
+    "text": "Give minions in the Tavern +4/+4 this game.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 115916,
+    "id": "BG31_842t2",
+    "name": "Nether Greed",
+    "set": "BATTLEGROUNDS",
+    "text": "Consume all minions in the Tavern to gain their stats.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 117575,
+    "id": "BG31_881t",
+    "name": "Hurry Up",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "TAVERN",
+    "text": "Give your minions +2/+2.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 117576,
+    "id": "BG31_881t2",
+    "name": "Do It Later",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "TAVERN",
+    "text": "At the start of your next turn, give your minions +2/+2 twice.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 117593,
+    "id": "BG31_884t",
+    "name": "The High Road",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "TAVERN",
+    "text": "Get a random Tier 6 minion.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 117594,
+    "id": "BG31_884t2",
+    "name": "The Low Road",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "TAVERN",
+    "text": "Get two random Tier 5 minions.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 117585,
+    "id": "BG31_886t",
+    "name": "All For One",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "TAVERN",
+    "targetingArrowText": "Give a minion +{0}/+{1}.",
+    "text": "Give a minion +12/+12.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 117586,
+    "id": "BG31_886t2",
+    "name": "One For All",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "TAVERN",
+    "text": "Give your minions +2/+2.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 115911,
+    "id": "BG31_890t",
+    "name": "Way of the Mage",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "TAVERN",
+    "text": "<b>Discover</b> a Tavern spell of your Tier.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 115912,
+    "id": "BG31_890t2",
+    "name": "Way of the Warrior",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "TAVERN",
+    "text": "<b>Discover</b> a minion of your Tier.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 116480,
+    "id": "BG31_920_Gt",
+    "name": "Evolving Strategy",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Get two random Tier 1 Naga.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 116478,
+    "id": "BG31_920t",
+    "name": "Evolving Strategy",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Get a random Tier 1 Naga.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "collectionText": "[x]Give a minion +{1}/+{1}\nuntil next turn.\n<i>(Cast {0}/4 spells\nto improve!)</i>",
+    "cost": 0,
+    "dbfId": 116113,
+    "id": "BG31_924_Gt",
+    "name": "Thaumaturgy",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "targetingArrowText": "Give a minion stats.",
+    "text": "[x]Give a minion +2/+2\nuntil next turn. <i>(Improved\nby every 4 spells you've\ncast this game!)</i>",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "collectionText": "[x]Give a minion +{1}/+{1}\nuntil next turn.\n<i>(Cast {0}/4 spells\nto improve!)</i>",
+    "cost": 0,
+    "dbfId": 116111,
+    "id": "BG31_924t",
+    "name": "Thaumaturgy",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "targetingArrowText": "Give a minion stats.",
+    "text": "[x]Give a minion +1/+1\nuntil next turn. <i>(Improved\nby every 4 spells you've\ncast this game!)</i>",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 118698,
+    "id": "BG31_Anomaly_102t",
+    "name": "Evolving Scroll",
+    "set": "BATTLEGROUNDS",
+    "text": "Each turn this is in your hand, transform it into a random Tavern spell of a higher Tier.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 118675,
+    "id": "BG31_Anomaly_115t",
+    "name": "Magic Prize",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Discover</b> a Tavern spell\nfrom <b>Tier 0</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 119776,
+    "id": "BG31_Anomaly_124t4",
+    "name": "Golden Arrow",
+    "set": "BATTLEGROUNDS",
+    "targetingArrowText": "Goldenize a minion in the Tavern.",
+    "text": "[x]Choose a minion in the\nTavern. Make it Golden.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 121720,
+    "id": "BG32_237_Gt",
+    "name": "Pristine Lilies",
+    "set": "BATTLEGROUNDS",
+    "text": "Your Tavern spells give an extra +2 Attack this game.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 121722,
+    "id": "BG32_237_Gt2",
+    "name": "Giant Dewdrop",
+    "set": "BATTLEGROUNDS",
+    "text": "Your Tavern spells give an extra +2 Health this game.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 121719,
+    "id": "BG32_237t",
+    "name": "Pristine Lilies",
+    "set": "BATTLEGROUNDS",
+    "text": "Your Tavern spells give an extra +1 Attack this game.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 121721,
+    "id": "BG32_237t2",
+    "name": "Giant Dewdrop",
+    "set": "BATTLEGROUNDS",
+    "text": "Your Tavern spells give an extra +1 Health this game.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 121480,
+    "id": "BG32_835_Gt",
+    "name": "Meditation",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Your Tavern spells give an extra +2/+2 this game.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 121479,
+    "id": "BG32_835t",
+    "name": "Meditation",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Your Tavern spells give an extra +1/+1 this game.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 121944,
+    "id": "BG32_MagicItem_205t",
+    "name": "Coin Pouch",
+    "set": "BATTLEGROUNDS",
+    "text": "Gain 3 Gold.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 121139,
+    "id": "BG32_MagicItem_892t",
+    "name": "Vibrant Bubble",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "[x]Give a Murloc a random\n<b>Bonus Keyword</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 122260,
+    "id": "BG33_319_Gt",
+    "name": "Rime or Reason",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Get 2 random Tavern spells that give stats.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 122259,
+    "id": "BG33_319t",
+    "name": "Rime or Reason",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Get a random Tavern spell that gives stats.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 126884,
+    "id": "BG33_Anomaly_008_Discover",
+    "name": "Discover Quest + Fixed Buddy [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Discover</b> a Quest and Reward pair. [DNT]",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 126883,
+    "hideCost": true,
+    "id": "BG33_Anomaly_008_Quest",
+    "mechanics": [
+      "SIDE_QUEST"
+    ],
+    "name": "An Investigation!",
+    "set": "BATTLEGROUNDS",
+    "text": "In 3 turns, choose one of three <b>Quests</b>!",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 123601,
+    "id": "BG33_Reward_006t",
+    "name": "Rushing Winds",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "WINDFURY"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Give a minion <b>Windfury</b> and <b>Divine Shield</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 123617,
+    "id": "BG33_Reward_012t",
+    "name": "Coin Pouch",
+    "set": "BATTLEGROUNDS",
+    "text": "Gain 5 Gold.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 126518,
+    "elite": true,
+    "id": "BG34_Giant_035t",
+    "name": "Timewarped Crown",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Give a minion\n<b>Divine Shield</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 128719,
+    "elite": true,
+    "id": "BG34_Giant_035t_G",
+    "name": "Timewarped Crown",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Give a minion\n<b>Divine Shield</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 127424,
+    "id": "BG34_Giant_210_Gt",
+    "name": "Timewarped Shoal",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Give a minion +4/+4 for each friendly Naga.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 127248,
+    "id": "BG34_Giant_210t",
+    "name": "Timewarped Shoal",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Give a minion +2/+2 for each friendly Naga.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 127425,
+    "id": "BG34_Giant_212_Gt",
+    "name": "Timewarped Eelectrify",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "[x]Give a minion\n+24 Attack.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 127251,
+    "id": "BG34_Giant_212t",
+    "name": "Timewarped Eelectrify",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "[x]Give a minion\n+12 Attack.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Todd Harris",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 127873,
+    "id": "BG34_Giant_324_Gt",
+    "name": "Timewarped Summoning",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Choose a minion. Transform all minions in the Tavern into ones of its type, keeping Tiers.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Todd Harris",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 127851,
+    "id": "BG34_Giant_324t",
+    "name": "Timewarped Summoning",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Choose a minion. Transform all minions in the Tavern into ones of its type, keeping Tiers.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 128498,
+    "id": "BG34_Giant_583_Gt",
+    "name": "Coin Pouch",
+    "set": "BATTLEGROUNDS",
+    "text": "Gain 6 Gold.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 128509,
+    "id": "BG34_Giant_583t",
+    "name": "Coin Pouch",
+    "set": "BATTLEGROUNDS",
+    "text": "Gain 3 Gold.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 123973,
+    "id": "BG34_MidGameEffect_030t2",
+    "name": "Coin Pouch",
+    "set": "BATTLEGROUNDS",
+    "text": "Gain 8 Gold.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 123977,
+    "id": "BG34_MidGameEffect_031t2",
+    "name": "Coin Pouch",
+    "set": "BATTLEGROUNDS",
+    "text": "Gain 6 Gold.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 123980,
+    "id": "BG34_MidGameEffect_032t2",
+    "name": "Free Refreshes",
+    "set": "BATTLEGROUNDS",
+    "text": "Gain 10 free <b>Refreshes</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 122906,
+    "id": "BG_EX1_014t",
+    "name": "Bananas",
+    "set": "BATTLEGROUNDS",
+    "text": "Give a minion +1/+1.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 1,
+    "dbfId": 122908,
+    "id": "BG_TB_006",
+    "name": "Big Banana",
+    "set": "BATTLEGROUNDS",
+    "text": "Give a minion +2/+2.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 119425,
+    "id": "BGDUO20_GEM_No_Impact",
+    "name": "Blood Gem No Impact From Teammate [DNT]",
+    "set": "BATTLEGROUNDS",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 119352,
+    "id": "BGDUO31_201s",
+    "name": "Gathering Stormer Spell [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Gives you Gold. [DNT]",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 119403,
+    "id": "BGDUO31_202s",
+    "name": "Loyal Mobster Spell [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Plays a Blood Gem (size of your teammate's Gems) on your minions. [DNT]",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 117350,
+    "id": "BGDUO31_205_gs",
+    "name": "Selfless Sightseer Golden Spell [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Increase your maximum Gold by 2.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 117349,
+    "id": "BGDUO31_205s",
+    "name": "Selfless Sightseer Spell [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Increase your maximum Gold by 1.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 117364,
+    "id": "BGDUO31_206_Gs",
+    "name": "Oceanfloor Rummager Golden Spell [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Gives +2 Attack for each bonus keyword in your team's warbands. [DNT]",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 117363,
+    "id": "BGDUO31_206s",
+    "name": "Oceanfloor Rummager Spell [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Gives +1 Attack for each bonus keyword in your team's warbands. [DNT]",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 117366,
+    "id": "BGDUO31_207_Gs",
+    "name": "Wheeled Crewmate Golden Spell [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Reduce the Cost of upgrading this teammate's Tavern by 2.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 117365,
+    "id": "BGDUO31_207s",
+    "name": "Wheeled Crewmate Spell [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Reduce the Cost of upgrading this teammate's Tavern by 1.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 119510,
+    "id": "BGDUO31_208_Teammate_Trigger",
+    "name": "Scribbling Teammate Trigger [DNT]",
+    "set": "BATTLEGROUNDS",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 117504,
+    "id": "BGDUO31_209t",
+    "name": "Private Selection",
+    "referencedTags": [
+      "BACON_PASS_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "[x]Choose a minion.\nGet a different random\nminion of its type, then\n<b>Pass</b> it.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 117505,
+    "id": "BGDUO31_209t_G",
+    "name": "Private Selection",
+    "referencedTags": [
+      "BACON_PASS_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "[x]Choose a minion.\nGet 2 different random\nminions of its type, then\n<b>Pass</b> them.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 117447,
+    "id": "BGDUO31_210s",
+    "name": "Two-Faced Doomguard Spell [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Gives your minions +3/+3. [DNT]",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 123843,
+    "id": "BGDUO33_150t",
+    "name": "Dark Dazzler on Teammate [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Ensures the Dark Dazzler player ench on your teammate.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 123845,
+    "id": "BGDUO33_150t2",
+    "name": "Dark Dazzler Activation [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Trigger Teammate",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 106448,
+    "id": "BGDUO_107_Gs",
+    "name": "Doting Dracthyr Golden Spell [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Gives your minions +2 Attack. [DNT]",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 106441,
+    "id": "BGDUO_107s",
+    "name": "Doting Dracthyr Spell [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Gives your minions +1 Attack. [DNT]",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 106471,
+    "id": "BGDUO_109_Gs",
+    "name": "Support System Golden Spell [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Gives 2 friendly minions <b>Divine Shield</b>. [DNT]",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 104562,
+    "id": "BGDUO_109s",
+    "name": "Support System Spell [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Gives a friendly minion <b>Divine Shield</b>. [DNT]",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 106466,
+    "id": "BGDUO_110_Gs",
+    "name": "Feisty Freshwater Golden Spell [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Makes your next 4 <b>Refreshes</b> cost (0). [DNT]",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 104626,
+    "id": "BGDUO_110s",
+    "name": "Feisty Freshwater Spell [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Makes your next 2 <b>Refreshes</b> cost (0). [DNT]",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 106464,
+    "id": "BGDUO_118_Gs",
+    "name": "Plunder Pal Golden Spell [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Gives you 2 Gold.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 104543,
+    "id": "BGDUO_118s",
+    "name": "Plunder Pal Spell [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Gives you 1 Gold.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 105807,
+    "id": "BGDUO_119s",
+    "name": "Orc-estra Conductor Teammate Trigger [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Increments your Orc-estra Conductor player ench. [DNT]",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 105838,
+    "id": "BGDUO_120_Gt",
+    "name": "Well Wishes",
+    "referencedTags": [
+      "BACON_PASS_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "<b>Pass</b> a non-Golden minion <i>(except Well Wisher)</i>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 105836,
+    "id": "BGDUO_120t",
+    "name": "Well Wishes",
+    "referencedTags": [
+      "BACON_PASS_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "<b>Pass</b> a non-Golden minion <i>(except Well Wisher)</i>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 109414,
+    "id": "BGDUO_121_Gs",
+    "name": "Man'ari Messenger Golden Spell [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Gives Tavern minions +2/+2. [DNT]",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 109413,
+    "id": "BGDUO_121s",
+    "name": "Man'ari Messenger Spell [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Gives Tavern minions +1/+1. [DNT]",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 113332,
+    "id": "BGDUO_HERO_222t",
+    "name": "[DNT] Cho Gall HP Decrement",
+    "set": "BATTLEGROUNDS",
+    "text": "Decrement Double Trouble for teammate.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 117954,
+    "id": "BGDUO_MagicItem_002t",
+    "name": "Cho'gall Sticker on teammate [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Whenever your team plays a Golden minion, both you and your teammate get a Triple Reward.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 117992,
+    "id": "BGDUO_MagicItem_002t2",
+    "name": "Cho'gall Sticker Activation [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Trigger Teammate",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 114364,
+    "id": "BGS_200t",
+    "name": "Warden's Treasure",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Gain 1 Gold.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 65230,
+    "id": "BGS_Treasures_000",
+    "name": "Big Banana",
+    "set": "BATTLEGROUNDS",
+    "text": "Give a minion +2/+2.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 1,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 65232,
+    "id": "BGS_Treasures_001",
+    "name": "Pocket Change",
+    "set": "BATTLEGROUNDS",
+    "techLevel": 1,
+    "text": "Get 2 Gold Coins.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 65235,
+    "id": "BGS_Treasures_003",
+    "name": "Regular Discount",
+    "set": "BATTLEGROUNDS",
+    "text": "Reduce the Cost of upgrading the Tavern by (3).",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 1,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 65236,
+    "id": "BGS_Treasures_004",
+    "name": "Gacha Gift",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "techLevel": 1,
+    "text": "<b>Discover</b> a minion\nfrom <b>Tier 1</b>.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 2,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 65238,
+    "id": "BGS_Treasures_006",
+    "name": "Evolving Tavern",
+    "set": "BATTLEGROUNDS",
+    "techLevel": 2,
+    "text": "Replace all minions in the Tavern with ones of a Tier higher.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 1,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 65239,
+    "id": "BGS_Treasures_007",
+    "name": "Might of Stormwind",
+    "set": "BATTLEGROUNDS",
+    "techLevel": 1,
+    "text": "Give 3 random friendly minions +1/+1.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 2,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 65246,
+    "id": "BGS_Treasures_009",
+    "name": "Gruul Rules",
+    "set": "BATTLEGROUNDS",
+    "techLevel": 2,
+    "text": "Give a friendly minion \"At the end of your turn, gain +2/+2.\"",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 2,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 65248,
+    "id": "BGS_Treasures_010",
+    "name": "Time Thief",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "techLevel": 2,
+    "text": "<b>Discover</b> a minion from your last opponent's warband.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 3,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 65249,
+    "id": "BGS_Treasures_011",
+    "name": "Training Session",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "techLevel": 3,
+    "text": "<b>Discover</b> a new Hero Power.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 2,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 65250,
+    "id": "BGS_Treasures_012",
+    "name": "On the House",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "techLevel": 2,
+    "text": "<b>Discover</b> a minion from your current <b>Tier</b>.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 1,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 65254,
+    "id": "BGS_Treasures_013",
+    "name": "The Good Stuff",
+    "set": "BATTLEGROUNDS",
+    "techLevel": 1,
+    "text": "[x]Give minions in the\nTavern +1 Attack\nthis game.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 2,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 65256,
+    "id": "BGS_Treasures_014",
+    "name": "The Unlimited Coin",
+    "set": "BATTLEGROUNDS",
+    "techLevel": 2,
+    "text": "Gain 1 Gold.\nReturn this to your hand at end of turn.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 3,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 65259,
+    "id": "BGS_Treasures_015",
+    "name": "Buy the Holy Light",
+    "referencedTags": [
+      "DIVINE_SHIELD"
+    ],
+    "set": "BATTLEGROUNDS",
+    "techLevel": 3,
+    "text": "Give a friendly minion <b>Divine Shield</b>.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 4,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 65260,
+    "id": "BGS_Treasures_016",
+    "name": "Raise the Stakes",
+    "set": "BATTLEGROUNDS",
+    "techLevel": 4,
+    "text": "Make a friendly minion Golden and return it to your hand.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 2,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 65262,
+    "id": "BGS_Treasures_018",
+    "name": "I'm Still Just a Rat in a Cage",
+    "set": "BATTLEGROUNDS",
+    "techLevel": 2,
+    "text": "[x]Give a minion +2 Attack,\nthen double its Attack.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 3,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 65264,
+    "id": "BGS_Treasures_019",
+    "name": "B.A.N.A.N.A.S.",
+    "set": "BATTLEGROUNDS",
+    "techLevel": 3,
+    "text": "Fill your hand with Bananas.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 3,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 65265,
+    "id": "BGS_Treasures_020",
+    "name": "Top Shelf",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "techLevel": 3,
+    "text": "<b>Discover</b> a minion\nfrom a Tier higher.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 4,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 65270,
+    "id": "BGS_Treasures_022",
+    "name": "Friends and Family Discount",
+    "set": "BATTLEGROUNDS",
+    "techLevel": 4,
+    "text": "Minions in the Tavern cost (2) this game.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 4,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 65277,
+    "id": "BGS_Treasures_023",
+    "name": "Open Bar",
+    "referencedTags": [
+      "BACON_REFRESH_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "techLevel": 4,
+    "text": "Your first 5 <b>Refreshes</b>\neach turn are free.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 4,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 65274,
+    "id": "BGS_Treasures_025",
+    "name": "Fresh Tab",
+    "set": "BATTLEGROUNDS",
+    "techLevel": 4,
+    "text": "Refresh your Gold.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 2,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 65380,
+    "id": "BGS_Treasures_026",
+    "name": "The Bouncer",
+    "referencedTags": [
+      "TAUNT"
+    ],
+    "set": "BATTLEGROUNDS",
+    "techLevel": 2,
+    "text": "Give a friendly minion +6/+6 and <b>Taunt</b>.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 4,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 66424,
+    "id": "BGS_Treasures_028",
+    "name": "Give A Dog A Bone",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "WINDFURY"
+    ],
+    "set": "BATTLEGROUNDS",
+    "techLevel": 4,
+    "text": "Give a friendly minion <b>Divine Shield</b>, <b>Windfury</b>, and +10/+10.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 1,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 66427,
+    "id": "BGS_Treasures_029",
+    "name": "Rocking and Rolling",
+    "referencedTags": [
+      "BACON_REFRESH_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "techLevel": 1,
+    "text": "Gain 3 free\n<b> Refreshes</b>.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 2,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 66458,
+    "id": "BGS_Treasures_030",
+    "name": "Big Brann Play",
+    "referencedTags": [
+      "BATTLECRY"
+    ],
+    "set": "BATTLEGROUNDS",
+    "techLevel": 2,
+    "text": "Your <b>Battlecries</b> trigger an extra time this turn.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 4,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 66460,
+    "id": "BGS_Treasures_032",
+    "name": "Big Winner!",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "techLevel": 4,
+    "text": "<b>Discover</b> a Darkmoon Prize from each of the previous Prize turns.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 1,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 66463,
+    "id": "BGS_Treasures_033",
+    "name": "New Recruit",
+    "set": "BATTLEGROUNDS",
+    "techLevel": 1,
+    "text": "[x]The Tavern offers an\nextra minion this game.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 3,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 66495,
+    "id": "BGS_Treasures_034",
+    "name": "Repeat Customer",
+    "set": "BATTLEGROUNDS",
+    "techLevel": 3,
+    "text": "Return a friendly non-golden minion to your hand. Give it +2/+2.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 2,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 66545,
+    "id": "BGS_Treasures_036",
+    "name": "Great Deal",
+    "set": "BATTLEGROUNDS",
+    "techLevel": 2,
+    "text": "Reduce the Cost of upgrading the Tavern by (5).",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 3,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 66947,
+    "id": "BGS_Treasures_037",
+    "name": "All That Glitters",
+    "set": "BATTLEGROUNDS",
+    "techLevel": 3,
+    "text": "Make a random minion in the Tavern Golden.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kagi",
+    "battlegroundsDarkmoonPrizeTurn": 3,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 92336,
+    "id": "BGS_Treasures_039",
+    "name": "Mindflayer Goggles",
+    "referencedTags": [
+      "BACON_REFRESH_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "techLevel": 3,
+    "text": "Steal all minions from the Tavern, then <b>Refresh</b> it.",
+    "type": "SPELL"
+  },
+  {
+    "battlegroundsDarkmoonPrizeTurn": 1,
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 92337,
+    "id": "BGS_Treasures_040",
+    "name": "Banana Bunch",
+    "set": "BATTLEGROUNDS",
+    "techLevel": 1,
+    "text": "[x]Get 2 Bananas.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 58499,
+    "id": "TB_Bacon_Secrets_01",
+    "name": "Venomstrike Trap",
+    "referencedTags": [
+      "POISONOUS",
+      "SECRET"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Secret:</b> When one of your minions is attacked, summon a 2/3 <b>Poisonous</b> Cobra.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 123353,
+    "id": "TB_Bacon_Secrets_01b",
+    "name": "Better Venomstrike Trap",
+    "referencedTags": [
+      "POISONOUS",
+      "SECRET"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Secret:</b> When one of your\nminions is attacked,\nsummon a 2/3 <b>Poisonous</b>\nCobra and give it <b>Reborn</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 58500,
+    "id": "TB_Bacon_Secrets_02",
+    "name": "Snake Trap",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Secret:</b> When one of your minions is attacked, summon three 1/1 Snakes.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 58502,
+    "id": "TB_Bacon_Secrets_04",
+    "name": "Splitting Image",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Secret:</b> When one of your minions is attacked, summon a copy of it.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 58503,
+    "id": "TB_Bacon_Secrets_05",
+    "name": "Effigy",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Secret:</b> When a friendly minion dies, summon a random minion with the same Cost.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 58505,
+    "id": "TB_Bacon_Secrets_07",
+    "name": "Autodefense Matrix",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "SECRET"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Secret:</b> When one of your minions is attacked, give it <b>Divine Shield</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 123357,
+    "id": "TB_Bacon_Secrets_07b",
+    "name": "Better Autodefense Matrix",
+    "referencedTags": [
+      "DIVINE_SHIELD",
+      "SECRET"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]<b>Secret:</b> When one of your\nminions is attacked, give it\n<b>Divine Shield</b>. It takes 2 hits\nto break this combat.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 58507,
+    "id": "TB_Bacon_Secrets_08",
+    "name": "Avenge",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Secret:</b> When one of your minions dies, give a random friendly minion +3/+2.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 58509,
+    "id": "TB_Bacon_Secrets_10",
+    "name": "Redemption",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Secret:</b> When a friendly minion dies, return it to life with 1 Health.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 123359,
+    "id": "TB_Bacon_Secrets_10b",
+    "name": "Better Redemption",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Secret:</b> When a friendly minion dies, return it to life with full Health and enchantments.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 58510,
+    "id": "TB_Bacon_Secrets_11",
+    "name": "Hand of Salvation",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Secret:</b> When your second minion dies in a turn, return it to life.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 58512,
+    "id": "TB_Bacon_Secrets_12",
+    "name": "Ice Block",
+    "referencedTags": [
+      "IMMUNE",
+      "SECRET"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Secret:</b> When your hero takes fatal damage, prevent it and become <b>Immune</b> this turn.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 70114,
+    "id": "TB_Bacon_Secrets_13",
+    "name": "Competitive Spirit",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Secret:</b> When your turn starts, give your minions +1/+1.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "L. Lullabi & A. Bozonnet",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 104758,
+    "flavor": "He would henceforth be known as \"Karmerr, the Doom of Kazzak.\"",
+    "id": "TB_Bacon_Secrets_14",
+    "mechanics": [
+      "SECRET"
+    ],
+    "name": "Reckoning",
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Secret:</b> After an enemy minion deals 3 or more damage, destroy it.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Mauricio Herrera",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 113420,
+    "flavor": "\"Just you wait, I’ll go get on my main!\"",
+    "id": "TB_Bacon_Secrets_15",
+    "name": "Pack Tactics",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Secret:</b> When a friendly minion is attacked, summon a 3/3 copy.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 123361,
+    "id": "TB_Bacon_Secrets_15b",
+    "name": "Better Pack Tactics",
+    "referencedTags": [
+      "SECRET"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Secret:</b> When a friendly minion is attacked, summon a copy of it.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 72675,
+    "id": "TB_BaconShop_CheckTriples",
+    "name": "Check Triples",
+    "set": "BATTLEGROUNDS",
+    "text": "3ofKindCheck [DNT]",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kagi",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 80433,
+    "id": "TB_BaconShop_HERO_35_Buddy_t1",
+    "name": "Mysterybox",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]For the rest of the game,\nyour Hero Power triggers\nan extra time when used.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Akkapoj T.",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 80434,
+    "id": "TB_BaconShop_HERO_35_Buddy_t2",
+    "name": "Hand of Fate",
+    "set": "BATTLEGROUNDS",
+    "text": "Get 2 random\nDarkmoon Prizes.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kagi",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 80435,
+    "id": "TB_BaconShop_HERO_35_Buddy_t3",
+    "name": "Curse of Flesh",
+    "set": "BATTLEGROUNDS",
+    "text": "A random friendly minion gains the stats of another friendly minion.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Akkapoj T.",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 80437,
+    "id": "TB_BaconShop_HERO_35_Buddy_t5",
+    "name": "Devouring Hunger",
+    "referencedTags": [
+      "BACON_REFRESH_TOOLTIP"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Consume all minions in\nthe Tavern and give their\nstats to your minions.\nThen <b>Refresh</b> it.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Akkapoj T.",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 80438,
+    "id": "TB_BaconShop_HERO_35_Buddy_t6",
+    "name": "Rod of Roasting",
+    "set": "BATTLEGROUNDS",
+    "text": "Cast 'Pyrobuff' randomly to give minions +10/+10 until one hits your bartender or hero.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kagi",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 93390,
+    "id": "TB_BaconShop_HERO_35_Buddy_t7",
+    "name": "Mysterybox",
+    "set": "BATTLEGROUNDS",
+    "text": "Make a random minion in the Tavern Golden.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Kagi",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 93391,
+    "id": "TB_BaconShop_HERO_35_Buddy_t8",
+    "name": "Mindflayer Goggles",
+    "set": "BATTLEGROUNDS",
+    "text": "Cast 4 random Tavern spells.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 58596,
+    "id": "TB_BaconShop_HP_008a",
+    "name": "Gold Coin",
+    "set": "BATTLEGROUNDS",
+    "text": "Gain 1 Gold.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 59816,
+    "id": "TB_BaconShop_HP_038t",
+    "name": "Wild Banana",
+    "set": "BATTLEGROUNDS",
+    "text": "Give a friendly Beast +1/+1.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 3,
+    "dbfId": 60265,
+    "id": "TB_BaconShop_HP_047t",
+    "name": "Recruitment Map",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Discover</b> a minion\nfrom <b>Tier 0</b>.",
+    "type": "SPELL"
+  },
+  {
+    "artist": "David Kang",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 94063,
+    "flavor": "We all thought Kel’Thuzad was looking for Mr. Bigglesworth, not increasing tuition!",
+    "id": "TB_BaconShop_HP_080t",
+    "name": "Consolation Coin",
+    "set": "BATTLEGROUNDS",
+    "text": "[x]Gain 1 Gold.\n<i>(Your opponent had\nno minions.)</i>",
+    "type": "SPELL"
+  },
+  {
+    "artist": "Eva Widermann",
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 64484,
+    "id": "TB_BaconShop_HP_101t2",
+    "name": "Prize",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Discover</b> a minion\nfrom <b>Tier 0</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 59604,
+    "id": "TB_BaconShop_Triples_01",
+    "name": "Triple Reward",
+    "referencedTags": [
+      "DISCOVER"
+    ],
+    "set": "BATTLEGROUNDS",
+    "text": "<b>Discover</b> a minion\nfrom <b>Tier 0</b>.",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 78548,
+    "id": "TB_BaconShop_UpdateDmgCap",
+    "name": "Update Damage Cap [DNT]",
+    "set": "BATTLEGROUNDS",
+    "text": "Checks if any players are dead and updates the Damage Cap tag on the GameEntity accordingly. [DNT]",
+    "type": "SPELL"
+  },
+  {
+    "cardClass": "NEUTRAL",
+    "cost": 0,
+    "dbfId": 114365,
+    "id": "TB_BaconUps_256t",
+    "name": "Warden's Treasure",
+    "set": "BATTLEGROUNDS",
+    "spellSchool": "SPELLCRAFT",
+    "text": "Gain 2 Gold.",
+    "type": "SPELL"
+  }
+]
